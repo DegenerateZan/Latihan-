@@ -1,3 +1,3 @@
 baju = input("Tambahkan nama baju");
-
-print(baju)
+if baju == "kemeja" or "kaos":
+  print(baju)
