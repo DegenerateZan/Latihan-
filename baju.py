@@ -1,3 +1,3 @@
-input();
+baju = input("Tambahkan nama baju");
 
-print()
+print(baju)
