@@ -1,3 +1,3 @@
 baju = input("Tambahkan nama baju");
 
-print(baju)
+print(baju + " ini ada")
