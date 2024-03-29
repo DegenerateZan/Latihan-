@@ -1,4 +1,8 @@
 baju = input("Tambahkan nama baju");
+if baju == "kemeja" or "kaos":
 
-print(baju)
+print(baju + " ini ada")
+
+
 print("Baju telah ditambahkan")
+
